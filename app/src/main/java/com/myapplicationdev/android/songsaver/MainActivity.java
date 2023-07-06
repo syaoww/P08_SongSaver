@@ -35,7 +35,6 @@ public class MainActivity extends AppCompatActivity {
                 // Insert a task
                 db.insertSong("bouncy", "ateez", 2023, 5 );
                 // my emulator is not working
-
             }
         });
 
